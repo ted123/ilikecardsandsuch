@@ -1,0 +1,4 @@
+How to get acccess token:
+
+1. Go to graph api explorer
+2. generate acess token
